@@ -1,5 +1,5 @@
 # koopashell
-[![NPM](https://nodei.co/npm/isequal.png)](https://nodei.co/npm/isequal/)
+[![NPM](https://nodei.co/npm/koopashell.png)](https://nodei.co/npm/koopashell/)
 
 Sophisticated shell testing framework™ 
 

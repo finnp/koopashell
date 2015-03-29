@@ -1,7 +1,7 @@
 {
   "name": "koopashell",
   "version": "1.0.0",
-  "description": "command for testing if a stream is equal to a value",
+  "description": "assert tests for shell streams",
   "bin": "./cli.js",
   "scripts": {
     "test": "./test.sh"
